@@ -4,6 +4,7 @@
     <name>HydeIdea</name>
     <vendor>HydePHP</vendor>
 
+    <depends>com.jetbrains.php</depends>
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
