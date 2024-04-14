@@ -1,4 +1,4 @@
-package com.github.caendesilva.hydeideaexperiment
+package com.hydephp.hydeidea
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

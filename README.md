@@ -1,6 +1,6 @@
-# HydeIdea-Experiment
+# HydeIdea
 
-![Build](https://github.com/caendesilva/HydeIdea-Experiment/workflows/Build/badge.svg)
+![Build](https://github.com/caendesilva/HydeIdea/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
@@ -28,12 +28,12 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 
 - Using the IDE built-in plugin system:
   
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "HydeIdea-Experiment"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "HydeIdea"</kbd> >
   <kbd>Install</kbd>
   
 - Manually:
 
-  Download the [latest release](https://github.com/caendesilva/HydeIdea-Experiment/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/caendesilva/HydeIdea/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 

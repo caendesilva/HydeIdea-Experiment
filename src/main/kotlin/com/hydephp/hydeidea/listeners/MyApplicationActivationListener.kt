@@ -1,4 +1,4 @@
-package com.github.caendesilva.hydeideaexperiment.listeners
+package com.hydephp.hydeidea.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

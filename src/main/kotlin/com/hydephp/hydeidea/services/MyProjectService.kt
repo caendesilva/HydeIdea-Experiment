@@ -1,9 +1,9 @@
-package com.github.caendesilva.hydeideaexperiment.services
+package com.hydephp.hydeidea.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.caendesilva.hydeideaexperiment.MyBundle
+import com.hydephp.hydeidea.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

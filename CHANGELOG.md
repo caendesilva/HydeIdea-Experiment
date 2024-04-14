@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# HydeIdea-Experiment Changelog
+# HydeIdea Changelog
 
 ## [Unreleased]
 ### Added

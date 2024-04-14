@@ -1,4 +1,4 @@
-package com.github.caendesilva.hydeideaexperiment.toolWindow
+package com.hydephp.hydeidea.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.caendesilva.hydeideaexperiment.MyBundle
-import com.github.caendesilva.hydeideaexperiment.services.MyProjectService
+import com.hydephp.hydeidea.MyBundle
+import com.hydephp.hydeidea.services.MyProjectService
 import javax.swing.JButton
 
 
